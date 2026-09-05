@@ -1,6 +1,6 @@
 ---
 title: BDSM兴趣是如何形成的？
-date: 2026-09-05
+date: 2026-08-27
 tags:
   - BDSM
   - 心理学
